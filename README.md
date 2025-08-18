@@ -8,7 +8,7 @@ Article: https://pmc.ncbi.nlm.nih.gov/articles/PMC6481311/pdf/nihms-1002358.pdf 
 \
 Link: https://www.decode.com/summarydata/ \
 Publication: Bjornsdottir et al. Rare variants with large effects provide functional insights into the pathology of migraine subtypes, with and without aura. \
-\
+
 
 README of data: 
 ```
