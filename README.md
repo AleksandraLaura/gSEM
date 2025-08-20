@@ -1,3 +1,6 @@
+# This is the repository for a short project analyzing ADHD and Migrain data with gSEM. 
+All descriptions of the steps used can be found in the respective directories listed. 
+
 ## ADHD (Attention deficit hyperactivity disorder) data: 
 \
 Link: https://sites.google.com/broadinstitute.org/pgcadhd/downloads \
