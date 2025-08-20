@@ -2,12 +2,12 @@
 \
 Link: https://sites.google.com/broadinstitute.org/pgcadhd/downloads \
 Publication: Demontis et al., 2019 \
-Article: https://pmc.ncbi.nlm.nih.gov/articles/PMC6481311/pdf/nihms-1002358.pdf \
+Article: https://pmc.ncbi.nlm.nih.gov/articles/PMC6481311/pdf/nihms-1002358.pdf 
 
 ## Migrain data: 
 \
 Link: https://www.decode.com/summarydata/ \
-Publication: Bjornsdottir et al. Rare variants with large effects provide functional insights into the pathology of migraine subtypes, with and without aura. \
+Publication: Bjornsdottir et al. Rare variants with large effects provide functional insights into the pathology of migraine subtypes, with and without aura. 
 
 
 README of data: 
