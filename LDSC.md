@@ -1,3 +1,11 @@
+# Load in the packages
+```{r}
+#install.packages("devtools")
+library(devtools)
+#install_github("GenomicSEM/GenomicSEM")
+require(GenomicSEM)
+```
+
 ### Run multivariable LDSC
 ```{r}
 #vector of munged summary statisitcs
